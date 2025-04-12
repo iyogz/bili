@@ -6,7 +6,7 @@ const readline = require('readline');
 const { HttpsProxyAgent } = require('https-proxy-agent');
 
 const BASE_URL = 'https://billipad.finance/api';
-const REFERRAL_CODE = '';
+const REFERRAL_CODE = '26f44e62-e115-433f-be0b-9752b7aa410a';
 const REFERRAL_LINK = `https://Billipad.finance/ref/${REFERRAL_CODE}`;
 const ACCOUNTS_FILE = 'accounts.json';
 const EMAIL_DOMAIN = 'ptct.net';
